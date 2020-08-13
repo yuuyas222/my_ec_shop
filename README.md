@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 本アプリについて
+某フリマアプリのようにユーザーが商品購入及び、販売できるアプリ。
 
-Things you may want to cover:
+# 目的
+チーム開発でECサイト製作をしたのでその復習と実装できなかった機能へのチャレンジ。
+練習メイン。
 
-* Ruby version
+# 取組み方
+再度ER図→テーブル定義書の作成もし、あくまでも０から作成する。
+なお現状、レイアウトは必要最低限にする予定。（あくまでもrailsの練習）
 
-* System dependencies
+# ER図と定義書
 
-* Configuration
+# 実装機能一覧
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
